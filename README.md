@@ -36,30 +36,30 @@ Step 7
 # Task 1
 ## Key Features:  
 ## Model Training and Prediction:  
-• Train an LSTM (Long Short-Term Memory) model using Keras to classify text sentiment based on target values.
-• Tokenize text data and pad sequences for input to the LSTM model, ensuring consistent input length.
-• Compile the model with an 'adam' optimizer and binary cross-entropy loss function, and evaluate performance using accuracy metrics.
-• Implement early stopping during training to prevent overfitting and ensure optimal performance on the validation set. 
+• Train an LSTM (Long Short-Term Memory) model using Keras to classify text sentiment based on target values.  
+• Tokenize text data and pad sequences for input to the LSTM model, ensuring consistent input length.  
+• Compile the model with an 'adam' optimizer and binary cross-entropy loss function, and evaluate performance using accuracy metrics.  
+• Implement early stopping during training to prevent overfitting and ensure optimal performance on the validation set.  
 
 ## Data Preprocessing:  
-• Load and sample large datasets efficiently using PySpark for scalable data processing.
-• Clean data by selecting necessary columns, dropping missing values, and removing duplicates.
-• Convert PySpark DataFrames to Pandas DataFrames for compatibility with Keras preprocessing tools.
-• Tokenize text data using Keras Tokenizer and convert it into padded sequences for LSTM input. 
+• Load and sample large datasets efficiently using PySpark for scalable data processing.  
+• Clean data by selecting necessary columns, dropping missing values, and removing duplicates.  
+• Convert PySpark DataFrames to Pandas DataFrames for compatibility with Keras preprocessing tools.  
+• Tokenize text data using Keras Tokenizer and convert it into padded sequences for LSTM input.    
 
 ## Data Visualization:  
-• Visualize missing data in the dataset using a heatmap, ensuring no null values exist.
-• Plot model performance metrics, including accuracy and loss over epochs, for both training and validation sets.  
+• Visualize missing data in the dataset using a heatmap, ensuring no null values exist.  
+• Plot model performance metrics, including accuracy and loss over epochs, for both training and validation sets.    
 
 ## User-friendly Interface:  
-• Utilize PySpark for efficient handling of large datasets and seamless transitions to Keras for deep learning tasks.
-• Provide clear data cleaning steps and a visual representation of model performance during the training process.  
+• Utilize PySpark for efficient handling of large datasets and seamless transitions to Keras for deep learning tasks.  
+• Provide clear data cleaning steps and a visual representation of model performance during the training process.     
 
 ## Why Use This App?
-• Sentiment Analysis: Classify text sentiment using LSTM-based deep learning, providing powerful insights from text data.
-• Scalable Processing: Leverage PySpark for handling large datasets efficiently, ensuring performance even with substantial data.
-• Easy Model Visualization: Track and understand model performance through intuitive accuracy and loss graphs during training.
-• Practical Learning: A hands-on approach to building deep learning models with practical insights into data preprocessing and model evaluation.  
+• Sentiment Analysis: Classify text sentiment using LSTM-based deep learning, providing powerful insights from text data.  
+• Scalable Processing: Leverage PySpark for handling large datasets efficiently, ensuring performance even with substantial data.  
+• Easy Model Visualization: Track and understand model performance through intuitive accuracy and loss graphs during training.  
+• Practical Learning: A hands-on approach to building deep learning models with practical insights into data preprocessing and model evaluation.    
 
 # Error features:     
-- No issues that I could find.
+- No issues that I could find.  
