@@ -31,7 +31,18 @@ Step 6
 
 Step 7  
 * Once downloaded, open Visual Studio Code, click on "File" > "Open Folder," and navigate to the folder containing the project code.  
-* You are now ready to use Visual Studio Code for your project development.  
+* You are now ready to use Visual Studio Code for your project development.
+
+# How to Install the Dataset:  
+Dataset ~  
+Step 1:  
+* Using the link for the 'Dataset Reference' shown in the 'Theory' section of the assignment will take you to the correct site.
+![image](https://github.com/user-attachments/assets/b06fd1ea-f876-4ad8-9927-763b31b86011)
+Step 2:
+* Scroll down and click the download icon as shown in the guide below:  
+![image](https://github.com/user-attachments/assets/fce541d7-a534-4ca2-aed6-5b5f1c98c07d)
+Step 3:
+* Copy and paste the CSV file into your work, and the code should be functional now.  
 
 # Task 1
 ## Key Features:  
