@@ -22,11 +22,11 @@ Step 4
 * Familiarize yourself with the user interface and available features.  
 
 Step 5  
-* To start coding, create a new file or open an existing project folder by selecting "File" > "Open Folder" rom the menu.  
+* To start coding, create a new file or open an existing project folder by selecting "File" > "Open Folder" from the menu.  
 * Begin coding and exploring the various functionalities offered by Visual Studio Code.  
 
 Step 6  
-* For downloading a project code from a repository, navigate to the GitHub repository link provided by the project team.  
+* To download a project code from a repository, navigate to the GitHub repository link provided by the project team.  
 * Clone the repository using the Git extension integrated into Visual Studio Code or download the code as a zip file.  
 
 Step 7  
@@ -68,7 +68,7 @@ Step 3:
 
 ## Why Use This App?
 • Sentiment Analysis: Classify text sentiment using LSTM-based deep learning, providing powerful insights from text data.  
-• Scalable Processing: Leverage PySpark for handling large datasets efficiently, ensuring performance even with substantial data.  
+• Scalable Processing: Leverage PySpark to handle large datasets efficiently, ensuring performance even with substantial data.  
 • Easy Model Visualization: Track and understand model performance through intuitive accuracy and loss graphs during training.  
 • Practical Learning: A hands-on approach to building deep learning models with practical insights into data preprocessing and model evaluation.    
 
