@@ -36,10 +36,10 @@ Step 7
 # How to Install the Dataset:  
 Dataset ~  
 Step 1:  
-* Using the link for the 'Dataset Reference' shown in the 'Theory' section of the assignment will take you to the correct site.
+* Use the link for the 'Dataset Reference' shown in the 'Theory' section of the assignment. It will take you to the correct site where you can download the CSV file.
 ![image](https://github.com/user-attachments/assets/b06fd1ea-f876-4ad8-9927-763b31b86011)
 Step 2:
-* Scroll down and click the download icon as shown in the guide below:  
+* Scroll down and click the download icon as shown in the guide below. The download icon, not the button saying 'Download':  
 ![image](https://github.com/user-attachments/assets/fce541d7-a534-4ca2-aed6-5b5f1c98c07d)
 Step 3:
 * Copy and paste the CSV file into your work, and the code should be functional now.  
