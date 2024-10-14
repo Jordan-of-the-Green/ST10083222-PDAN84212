@@ -91,31 +91,31 @@ Step 3:
 
 # Task 2
 ## Key Features:
-## Logistic Regression Model:
-• Train a logistic regression model for binary classification on a large dataset.
-• Utilize gradient descent to optimize the weights and bias for logistic regression.
-• Implement sigmoid activation for non-linearity and binary output.
-• Train the model iteratively using training data, and validate performance on unseen data.
+## Logistic Regression Model:  
+• Train a logistic regression model for binary classification on a large dataset.  
+• Utilize gradient descent to optimize the weights and bias for logistic regression.  
+• Implement sigmoid activation for non-linearity and binary output.  
+• Train the model iteratively using training data, and validate performance on unseen data.  
 
-## Data Preprocessing:
-• Efficient data wrangling using PySpark for large datasets, cleaning missing values and dropping irrelevant columns.
-• Convert PySpark DataFrames into Pandas DataFrames for compatibility with Python libraries.
-• Label encoding for categorical data to ensure compatibility with logistic regression.
+## Data Preprocessing:  
+• Efficient data wrangling using PySpark for large datasets, cleaning missing values, and dropping irrelevant columns.  
+• Convert PySpark DataFrames into Pandas DataFrames for compatibility with Python libraries.  
+• Label encoding for categorical data to ensure compatibility with logistic regression.  
 
-## Data Visualization:
-• Generate visualizations such as count plots and heatmaps to understand data distribution and clean missing values.
-• Visualize the correlation matrix using background gradients to identify relationships between variables.
+## Data Visualization:  
+• Generate visualizations such as count plots and heatmaps to understand data distribution and clean missing values.  
+• Visualize the correlation matrix using background gradients to identify relationships between variables.  
 
-## Model Evaluation:
-• Calculate key evaluation metrics: accuracy, F1 score, precision, and recall.
-• Display a detailed classification report with per-class performance metrics.
-• Confusion matrix visualization for understanding model predictions.
+## Model Evaluation:  
+• Calculate key evaluation metrics: accuracy, F1 score, precision, and recall.  
+• Display a detailed classification report with per-class performance metrics.  
+• Confusion matrix visualization for understanding model predictions.  
 
-## Why Use This Model?
-• Logistic regression is simple yet effective for binary classification tasks.
-• Suitable for large datasets due to efficient PySpark handling of data.
-• Provides clear insights into model performance using visualizations and classification reports.
-• Easily extendable for further tuning and deployment.
+## Why Use This Model?  
+• Logistic regression is simple yet effective for binary classification tasks.  
+• Suitable for large datasets due to efficient PySpark handling of data.  
+• Provides clear insights into model performance using visualizations and classification reports.  
+• Easily extendable for further tuning and deployment.  
 
-# Error features:
-No major issues were encountered during development, but overfitting occurred with the imbalanced dataset.
+# Error features:  
+No major issues were encountered during development, but overfitting occurred with the imbalanced dataset.  
