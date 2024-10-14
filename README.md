@@ -56,7 +56,7 @@ Step 2:
 * Scroll down and click the download icon as shown in the guide below:  
 ![image](https://github.com/user-attachments/assets/b8e95772-70d4-479b-878d-4e9ffc0df883)
 Step 3:
-* Copy and paste the CSV file into your work, and the code should be functional now.  
+* Copy and paste the CSV file into your work, and change the CSV name to 'Jordan Green. ST10083222. PDAN8412. POE 2'; the code should be functional now.  
 
 # Task 1
 ## Key Features:  
