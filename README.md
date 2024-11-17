@@ -41,35 +41,35 @@ Step 7
 
 # How to Install the Dataset Part 1:  
 Dataset ~  
-Step 1:  
+**Step 1:**  
 * Using the link for the 'Dataset Reference' shown in the 'Theory' section of the assignment will take you to the correct site.
 ![image](https://github.com/user-attachments/assets/b06fd1ea-f876-4ad8-9927-763b31b86011)
-Step 2:
+**Step 2:**
 * Scroll down and click the download icon as shown in the guide below:  
 ![image](https://github.com/user-attachments/assets/fce541d7-a534-4ca2-aed6-5b5f1c98c07d)
-Step 3:
+**Step 3:**
 * Copy and paste the CSV file into your work, and the code should be functional now.  
 
 # How to Install the Dataset Part 2:  
 Dataset ~  
-Step 1:  
+**Step 1:**  
 * Using the link for the 'Dataset Reference' shown in the 'Theory' section of the assignment will take you to the correct site.
 ![image](https://github.com/user-attachments/assets/cd2dedb7-a9c8-4683-bca7-117151a65862)
-Step 2:
+**Step 2:**
 * Scroll down and click the download icon as shown in the guide below:  
 ![image](https://github.com/user-attachments/assets/b8e95772-70d4-479b-878d-4e9ffc0df883)
-Step 3:
+**Step 3:**
 * Copy and paste the CSV file into your work, and change the CSV name to 'Jordan Green. ST10083222. PDAN8412. POE 2'; the code should be functional now.  
 
 # How to Install the Dataset Part 3:  
 Dataset ~  
-Step 1:  
+**Step 1:**  
 * Using the link for the 'Dataset Reference' shown in the 'Theory' section of the assignment will take you to the correct site.
 ![image](https://github.com/user-attachments/assets/ddf0b386-f4e7-4a45-b476-fff977454db0)
-Step 2:
+**Step 2:**
 * Scroll down and click the download icon as shown in the guide below:  
 ![image](https://github.com/user-attachments/assets/37c8e7db-03df-4fcc-9c75-d8e7847c0983)
-Step 3:
+**Step 3:**
 * Copy and paste the CSV file into your work, and the code should be functional now. 
 
 # Task 1
