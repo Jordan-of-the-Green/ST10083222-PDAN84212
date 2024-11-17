@@ -95,10 +95,10 @@ Step 3:
 • Provide clear data cleaning steps and a visual representation of model performance during the training process.     
 
 ## Why Use This App?
-• Sentiment Analysis: Classify text sentiment using LSTM-based deep learning, providing powerful insights from text data.  
-• Scalable Processing: Leverage PySpark for handling large datasets efficiently, ensuring performance even with substantial data.  
-• Easy Model Visualization: Track and understand model performance through intuitive accuracy and loss graphs during training.  
-• Practical Learning: A hands-on approach to building deep learning models with practical insights into data preprocessing and model evaluation.    
+• **Sentiment Analysis:** Classify text sentiment using LSTM-based deep learning, providing powerful insights from text data.  
+• **Scalable Processing:** Leverage PySpark for handling large datasets efficiently, ensuring performance even with substantial data.  
+• **Easy Model Visualization:** Track and understand model performance through intuitive accuracy and loss graphs during training.  
+• **Practical Learning:** A hands-on approach to building deep learning models with practical insights into data preprocessing and model evaluation.    
 
 # Error features:     
 - **No Major Errors**: All components of the system have been thoroughly tested and work as expected.
@@ -125,7 +125,7 @@ Step 3:
 • Display a detailed classification report with per-class performance metrics.  
 • Confusion matrix visualization for understanding model predictions.  
 
-## Why Use This Model?  
+## Why Use This App?  
 • Logistic regression is simple yet effective for binary classification tasks.  
 • Suitable for large datasets due to efficient PySpark handling of data.  
 • Provides clear insights into model performance using visualizations and classification reports.  
