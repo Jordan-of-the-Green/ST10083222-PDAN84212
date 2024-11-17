@@ -6,6 +6,9 @@ An end-to-end sentiment analysis app utilizing PySpark and Keras. It processes l
 # Task 2 Description:
 This task involves building and evaluating a logistic regression model to classify data using PySpark for data processing and Python for model development. The aim is to develop a binary classification model that provides an efficient and scalable approach to predicting outcomes from large datasets.
 
+# Task 3 Description:
+This project is a comprehensive image classification application that leverages TensorFlow to classify images as either "REAL" or "FAKE." It processes the CIFAR-10 dataset, applies data augmentation techniques, and utilizes a custom-built Convolutional Neural Network (CNN) for binary classification. The project efficiently handles large datasets, augments data for better model generalization, and visualizes the model’s performance during training.
+
 # How to Install and Run the Project:    
 Visual Studio Code Project ~  
 Step 1  
@@ -57,6 +60,17 @@ Step 2:
 ![image](https://github.com/user-attachments/assets/b8e95772-70d4-479b-878d-4e9ffc0df883)
 Step 3:
 * Copy and paste the CSV file into your work, and change the CSV name to 'Jordan Green. ST10083222. PDAN8412. POE 2'; the code should be functional now.  
+
+# How to Install the Dataset Part 3:  
+Dataset ~  
+Step 1:  
+* Using the link for the 'Dataset Reference' shown in the 'Theory' section of the assignment will take you to the correct site.
+
+Step 2:
+* Scroll down and click the download icon as shown in the guide below:  
+
+Step 3:
+* Copy and paste the CSV file into your work, and the code should be functional now. 
 
 # Task 1
 ## Key Features:  
@@ -119,3 +133,39 @@ Step 3:
 
 # Error features:  
 No major issues were encountered during development, but overfitting occurred with the imbalanced dataset.  
+
+# Task 3
+## Key Features:
+### Model Training and Prediction:
+- Build a custom Convolutional Neural Network (CNN) using TensorFlow/Keras for binary classification of images (REAL vs. FAKE).
+- The model consists of convolutional layers, max pooling, and dropout for regularization to prevent overfitting.
+- The model is compiled with the Adam optimizer, binary cross-entropy loss function, and accuracy as the evaluation metric.
+- The model is trained on the processed dataset and used to predict the class of unseen images.
+
+### Data Preprocessing and Augmentation:
+- Use TensorFlow's ImageDataGenerator to load and preprocess the dataset with augmentation techniques like horizontal flipping, zoom, and rotation.
+- Reduce the dataset size by limiting the number of images per class to improve training performance and reduce memory usage.
+- Preprocess the images by resizing them and normalizing pixel values to the [0, 1] range for improved model efficiency.
+
+### Visualization and Evaluation:
+- Visualize model training performance with graphs for accuracy and loss over epochs.
+- After training, evaluate the model's performance using a confusion matrix, classification report, and other evaluation metrics like precision, recall, and F1-score.
+- Use the evaluation results to identify potential areas of improvement for the model.
+
+### Error Handling and Debugging:
+- Handle missing or incorrectly formatted data by cleaning the dataset, ensuring the images are correctly labeled and organized.
+- No major errors have been found during testing. If any issues arise, debugging is facilitated by the clear output of model performance metrics (accuracy, loss, confusion matrix).
+
+## Why Use This App?
+- **Image Classification**: Automatically classify images as "REAL" or "FAKE" using a deep learning-based CNN model.
+- **Scalable Dataset Handling**: Efficiently process large datasets through TensorFlow's ImageDataGenerator and augmentation strategies.
+- **Model Evaluation**: Track model performance with visualization tools and evaluation metrics like confusion matrix and classification reports.
+- **Practical Learning**: Gain hands-on experience in building, training, and evaluating deep learning models for image classification.
+
+## Limitations and Future Improvements:
+- The current model might require further fine-tuning for improved accuracy, especially when working with larger or more complex datasets.
+- Future improvements could involve using pre-trained models like ResNet or Inception for better feature extraction and model performance.
+- Implementing more sophisticated data augmentation strategies could further enhance model robustness.
+
+## Error Features:
+- **No Major Errors**: All components of the system have been thoroughly tested and work as expected.
