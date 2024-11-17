@@ -65,10 +65,10 @@ Step 3:
 Dataset ~  
 Step 1:  
 * Using the link for the 'Dataset Reference' shown in the 'Theory' section of the assignment will take you to the correct site.
-
+![image](https://github.com/user-attachments/assets/ddf0b386-f4e7-4a45-b476-fff977454db0)
 Step 2:
 * Scroll down and click the download icon as shown in the guide below:  
-
+![image](https://github.com/user-attachments/assets/37c8e7db-03df-4fcc-9c75-d8e7847c0983)
 Step 3:
 * Copy and paste the CSV file into your work, and the code should be functional now. 
 
@@ -101,7 +101,7 @@ Step 3:
 • Practical Learning: A hands-on approach to building deep learning models with practical insights into data preprocessing and model evaluation.    
 
 # Error features:     
-- No issues that I could find.  
+- **No Major Errors**: All components of the system have been thoroughly tested and work as expected.
 
 # Task 2
 ## Key Features:
@@ -132,7 +132,7 @@ Step 3:
 • Easily extendable for further tuning and deployment.  
 
 # Error features:  
-No major issues were encountered during development, but overfitting occurred with the imbalanced dataset.  
+- **No Major Errors**: No major issues were encountered during development, but overfitting occurred with the imbalanced dataset.  
 
 # Task 3
 ## Key Features:
