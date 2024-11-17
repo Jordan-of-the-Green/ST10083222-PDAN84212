@@ -7,7 +7,7 @@ An end-to-end sentiment analysis app utilizing PySpark and Keras. It processes l
 This task involves building and evaluating a logistic regression model to classify data using PySpark for data processing and Python for model development. The aim is to develop a binary classification model that provides an efficient and scalable approach to predicting outcomes from large datasets.
 
 # Task 3 Description:
-This project is a comprehensive image classification application that leverages TensorFlow to classify images as either "REAL" or "FAKE." It processes the CIFAR-10 dataset, applies data augmentation techniques, and utilizes a custom-built Convolutional Neural Network (CNN) for binary classification. The project efficiently handles large datasets, augments data for better model generalization, and visualizes the model’s performance during training.
+This project is an image classification application that leverages TensorFlow to classify images as either "REAL" or "FAKE." It processes the CIFAR-10 dataset, applies data augmentation techniques, and utilizes a custom-built Convolutional Neural Network (CNN) for binary classification. The project efficiently handles large datasets, augments data for better model generalization, and visualizes the model’s performance during training.
 
 # How to Install and Run the Project:    
 Visual Studio Code Project ~  
@@ -28,7 +28,7 @@ Step 4
 * Familiarize yourself with the user interface and available features.  
 
 Step 5  
-* To start coding, create a new file or open an existing project folder by selecting "File" > "Open Folder" rom the menu.  
+* To start coding, create a new file or open an existing project folder by selecting "File" > "Open Folder" from the menu.  
 * Begin coding and exploring the various functionalities offered by Visual Studio Code.  
 
 Step 6  
@@ -153,7 +153,7 @@ Step 3:
 - Use the evaluation results to identify potential areas of improvement for the model.
 
 ### Error Handling and Debugging:
-- Handle missing or incorrectly formatted data by cleaning the dataset, ensuring the images are correctly labeled and organized.
+- Handle missing or incorrectly formatted data by cleaning the dataset, and ensuring the images are correctly labeled and organized.
 - No major errors have been found during testing. If any issues arise, debugging is facilitated by the clear output of model performance metrics (accuracy, loss, confusion matrix).
 
 ## Why Use This App?
