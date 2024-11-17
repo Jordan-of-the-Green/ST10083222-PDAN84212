@@ -74,23 +74,23 @@ Step 3:
 
 # Task 1
 ## Key Features:  
-## Model Training and Prediction:  
+### Model Training and Prediction:  
 • Train an LSTM (Long Short-Term Memory) model using Keras to classify text sentiment based on target values.  
 • Tokenize text data and pad sequences for input to the LSTM model, ensuring consistent input length.  
 • Compile the model with an 'adam' optimizer and binary cross-entropy loss function, and evaluate performance using accuracy metrics.  
 • Implement early stopping during training to prevent overfitting and ensure optimal performance on the validation set.  
 
-## Data Preprocessing:  
+### Data Preprocessing:  
 • Load and sample large datasets efficiently using PySpark for scalable data processing.  
 • Clean data by selecting necessary columns, dropping missing values, and removing duplicates.  
 • Convert PySpark DataFrames to Pandas DataFrames for compatibility with Keras preprocessing tools.  
 • Tokenize text data using Keras Tokenizer and convert it into padded sequences for LSTM input.    
 
-## Data Visualization:  
+### Data Visualization:  
 • Visualize missing data in the dataset using a heatmap, ensuring no null values exist.  
 • Plot model performance metrics, including accuracy and loss over epochs, for both training and validation sets.    
 
-## User-friendly Interface:  
+### User-friendly Interface:  
 • Utilize PySpark for efficient handling of large datasets and seamless transitions to Keras for deep learning tasks.  
 • Provide clear data cleaning steps and a visual representation of model performance during the training process.     
 
@@ -105,22 +105,22 @@ Step 3:
 
 # Task 2
 ## Key Features:
-## Logistic Regression Model:  
+### Logistic Regression Model:  
 • Train a logistic regression model for binary classification on a large dataset.  
 • Utilize gradient descent to optimize the weights and bias for logistic regression.  
 • Implement sigmoid activation for non-linearity and binary output.  
 • Train the model iteratively using training data, and validate performance on unseen data.  
 
-## Data Preprocessing:  
+### Data Preprocessing:  
 • Efficient data wrangling using PySpark for large datasets, cleaning missing values, and dropping irrelevant columns.  
 • Convert PySpark DataFrames into Pandas DataFrames for compatibility with Python libraries.  
 • Label encoding for categorical data to ensure compatibility with logistic regression.  
 
-## Data Visualization:  
+### Data Visualization:  
 • Generate visualizations such as count plots and heatmaps to understand data distribution and clean missing values.  
 • Visualize the correlation matrix using background gradients to identify relationships between variables.  
 
-## Model Evaluation:  
+### Model Evaluation:  
 • Calculate key evaluation metrics: accuracy, F1 score, precision, and recall.  
 • Display a detailed classification report with per-class performance metrics.  
 • Confusion matrix visualization for understanding model predictions.  
